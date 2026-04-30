@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 — Page Not Found · Kotesh Kumar Yelamati</title>
+  <meta name="robots" content="noindex, follow">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    /* Inline tokens to keep this page self-contained */
+    :root {
+      --bg: #0d1117;
+      --bg-surface: #161b22;
+      --border: #30363d;
+      --border-subtle: #21262d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --text-subtle: #6e7681;
+      --accent: #14b8a6;
+      --accent-light: #2dd4bf;
+      --font: 'Inter', system-ui, -apple-system, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      --radius: 8px;
+    }
+    [data-theme="light"] {
+      --bg: #f6f8fa;
+      --bg-surface: #ffffff;
+      --border: #d0d7de;
+      --border-subtle: #e0e5eb;
+      --text: #0d1117;
+      --text-muted: #4a5568;
+      --text-subtle: #6e7681;
+      --accent: #0d9488;
+      --accent-light: #14b8a6;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 16px; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      position: relative;
+      overflow: hidden;
+    }
+    /* Subtle grid bg matching main site */
+    body::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(var(--border-subtle) 1px, transparent 1px),
+        linear-gradient(90deg, var(--border-subtle) 1px, transparent 1px);
+      background-size: 64px 64px;
+      opacity: 0.2;
+      pointer-events: none;
+    }
+    .page {
+      position: relative;
+      z-index: 1;
+      text-align: left;
+      max-width: 480px;
+      width: 100%;
+    }
+    .code {
+      font-family: var(--font-mono);
+      font-size: 11.5px;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      margin-bottom: 16px;
+    }
+    .heading {
+      font-size: clamp(56px, 15vw, 96px);
+      font-weight: 800;
+      letter-spacing: -0.04em;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 12px;
+    }
+    .subheading {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+    .message {
+      font-size: 15px;
+      color: var(--text-muted);
+      line-height: 1.7;
+      margin-bottom: 36px;
+    }
+    .actions {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .btn-home {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 22px;
+      background: var(--accent);
+      color: #0d1117;
+      border-radius: var(--radius);
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background 180ms ease;
+    }
+    .btn-home:hover { background: var(--accent-light); }
+    .btn-home:focus-visible {
+      outline: 2px solid var(--text);
+      outline-offset: 3px;
+      border-radius: var(--radius);
+    }
+    .divider {
+      width: 40px;
+      height: 2px;
+      background: var(--accent);
+      margin-bottom: 24px;
+    }
+    footer {
+      margin-top: 64px;
+      font-size: 12px;
+      color: var(--text-subtle);
+      font-family: var(--font-mono);
+    }
+    @media (max-width: 480px) {
+      .actions { flex-direction: column; }
+      .btn-home { width: fit-content; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <p class="code">Error 404</p>
+    <h1 class="heading">404</h1>
+    <div class="divider"></div>
+    <h2 class="subheading">Page not found.</h2>
+    <p class="message">
+      The page you're looking for doesn't exist or was moved.
+      Head back to the portfolio to find what you need.
+    </p>
+    <div class="actions">
+      <a href="index.html" class="btn-home">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        Back to Portfolio
+      </a>
+    </div>
+    <footer>koteshyelamati.github.io</footer>
+  </div>
+
+  <script>
+    // Respect saved theme preference on the 404 page too
+    try {
+      const t = localStorage.getItem('ky-theme');
+      if (t) document.documentElement.setAttribute('data-theme', t);
+    } catch { /* sandboxed — default dark is already set */ }
+  </script>
+</body>
+</html>
