@@ -13,15 +13,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **Software Engineer & AI/ML Developer** with **4+ years** building scalable backend systems, GenAI applications, and data pipelines. Currently at **ServiceNow** (New Jersey, USA), I ship production-grade LangChain/RAG systems and cloud-native microservices on AWS. I hold an **MS in Data Analytics (Indiana Wesleyan University, 2025)** and have an IEEE publication on ML-assisted medical diagnostics.
 
-> 📍 West Jordan, Utah &nbsp;|&nbsp; 🎓 MS Data Analytics — IWU 2025 &nbsp;|&nbsp; 🏢 ServiceNow (Nov 2024 – Present)
+> 📍 Hillsborough, New Jersey &nbsp;|&nbsp; 🎓 MS Data Analytics — IWU 2025 &nbsp;|&nbsp; 🏢 ServiceNow (Nov 2024 – Present)
 
 ---
 
-## 🚀 Impact Highlights
+##  Impact Highlights
 
 | Metric | Achievement | Stack |
 |--------|-------------|-------|
@@ -36,9 +36,9 @@ I'm a **Software Engineer & AI/ML Developer** with **4+ years** building scalabl
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💬 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -47,7 +47,7 @@ I'm a **Software Engineer & AI/ML Developer** with **4+ years** building scalabl
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
@@ -65,7 +65,7 @@ I'm a **Software Engineer & AI/ML Developer** with **4+ years** building scalabl
 ![AWS SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
 
-### 📦 Data Engineering
+###  Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
@@ -73,7 +73,7 @@ I'm a **Software Engineer & AI/ML Developer** with **4+ years** building scalabl
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -82,7 +82,7 @@ I'm a **Software Engineer & AI/ML Developer** with **4+ years** building scalabl
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -92,9 +92,9 @@ I'm a **Software Engineer & AI/ML Developer** with **4+ years** building scalabl
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### 🏢 ServiceNow — Software Engineer *(Nov 2024 – Present | New Jersey, USA)*
+###  ServiceNow — Software Engineer *(Nov 2024 – Present | New Jersey, USA)*
 Building production GenAI systems and cloud-native microservices at scale.
 - Built **LangChain + OpenAI RAG** knowledge retrieval system → **35% faster** support ticket resolution
 - Designed **ChromaDB vector search pipelines** with text embeddings → **40% better** search relevance
@@ -104,7 +104,7 @@ Building production GenAI systems and cloud-native microservices at scale.
 - Orchestrated **Kafka event-driven microservices** for sub-second real-time processing
 - Shipped zero-downtime deployments via **ArgoCD + Helm GitOps** on Kubernetes
 
-### 🏢 Infinite Infolab — Software Engineer *(Apr 2020 – Jul 2023 | India)*
+###  Infinite Infolab — Software Engineer *(Apr 2020 – Jul 2023 | India)*
 Full-stack engineering, data pipelines, and applied ML for enterprise clients.
 - Delivered end-to-end **Spark + Airflow** ETL/ELT pipelines for analytics dashboards
 - Automated business rule detection with **scikit-learn ML** → **30% less** manual review effort
@@ -114,10 +114,10 @@ Full-stack engineering, data pipelines, and applied ML for enterprise clients.
 
 ---
 
-## 📚 Education & Research
+##  Education & Research
 
-🎓 **MS in Data Analytics** — Indiana Wesleyan University *(Apr 2025)*
-🎓 **BE — Electrical, Electronics & Communications** — Saveetha School of Engineering *(2022)*
+ **MS in Data Analytics** — Indiana Wesleyan University *(Apr 2025)*
+ **BE — Electrical, Electronics & Communications** — Saveetha School of Engineering *(2022)*
 
 **📄 IEEE Publication:**
 *Lung Cancer Identification System to Improve Accuracy Using Novel K-Nearest Neighbour in Comparison with Logistic Regression Algorithm*
@@ -125,7 +125,7 @@ Full-stack engineering, data pipelines, and applied ML for enterprise clients.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
