@@ -194,3 +194,5 @@ From GitHub + experience context:
 - Added GenAI/RAG project descriptions for LLM evaluation pipeline
 
 - Documented AWS SageMaker ML pipeline and Kubernetes deployment workflows
+
+- Cross-checked Spring Boot microservices and Apache Kafka event-driven architecture details
