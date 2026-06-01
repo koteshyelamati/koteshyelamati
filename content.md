@@ -183,3 +183,9 @@ From GitHub + experience context:
 2. **rag-evaluation-system** — FastAPI server, ChromaDB/FAISS, OpenAI evaluator with caching, A/B retrieval comparison
 3. **Backend/distributed systems** — ServiceNow-era: Spring Boot microservices, Kafka, ArgoCD/Helm, AWS EKS
 4. **Data/ML pipeline** — Infolab-era: Spark + Airflow ETL, scikit-learn classification, Hugging Face NLP, Great Expectations
+
+
+## Changelog
+
+### June 2026
+- Reviewed and verified all portfolio content for accuracy
