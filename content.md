@@ -196,3 +196,5 @@ From GitHub + experience context:
 - Documented AWS SageMaker ML pipeline and Kubernetes deployment workflows
 
 - Cross-checked Spring Boot microservices and Apache Kafka event-driven architecture details
+
+- Added ChromaDB vector store integration notes for semantic search
