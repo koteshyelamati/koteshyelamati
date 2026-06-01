@@ -204,3 +204,5 @@ From GitHub + experience context:
 - Updated Terraform and ArgoCD GitOps deployment workflow descriptions
 
 - Added Snowflake and Apache Spark data pipeline architecture reference
+
+- Verified MS Data Analytics (Indiana Wesleyan University 2025) degree details and IEEE publication DOI
