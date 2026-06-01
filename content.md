@@ -192,3 +192,5 @@ From GitHub + experience context:
 - Updated professional summary with latest ServiceNow achievements
 
 - Added GenAI/RAG project descriptions for LLM evaluation pipeline
+
+- Documented AWS SageMaker ML pipeline and Kubernetes deployment workflows
