@@ -200,3 +200,5 @@ From GitHub + experience context:
 - Added ChromaDB vector store integration notes for semantic search
 
 - Documented OpenAI API integration patterns for LLM-powered support ticket resolution
+
+- Updated Terraform and ArgoCD GitOps deployment workflow descriptions
