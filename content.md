@@ -198,3 +198,5 @@ From GitHub + experience context:
 - Cross-checked Spring Boot microservices and Apache Kafka event-driven architecture details
 
 - Added ChromaDB vector store integration notes for semantic search
+
+- Documented OpenAI API integration patterns for LLM-powered support ticket resolution
