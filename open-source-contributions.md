@@ -87,3 +87,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Performance Engineering  
 **Description:** Implemented Redis caching layer for frequently accessed database queries, reducing database load by 60% and improving API response times significantly for high-traffic endpoints.
+
+## Contribution #17 - GraphQL API Development
+**Date:** 2026-06-02  
+**Type:** API Development  
+**Description:** Designed and implemented a GraphQL API using Spring Boot and Netflix DGS framework, enabling flexible data fetching for frontend clients and reducing over-fetching by 45%.
