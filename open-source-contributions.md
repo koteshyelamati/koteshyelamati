@@ -33,3 +33,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Data Engineering  
 **Description:** Built ChromaDB vector search pipelines for semantic document retrieval, improving search relevance by 40% in a RAG-based knowledge management system.
+
+## Contribution #7 - AWS EC2/S3/RDS Optimization
+**Date:** 2026-06-02  
+**Type:** Cloud Infrastructure  
+**Description:** Optimized AWS EC2 instance types, configured S3 lifecycle policies, and tuned RDS parameters for a production backend system, achieving 20% faster API response times.
