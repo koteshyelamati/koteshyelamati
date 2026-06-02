@@ -92,3 +92,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** API Development  
 **Description:** Designed and implemented a GraphQL API using Spring Boot and Netflix DGS framework, enabling flexible data fetching for frontend clients and reducing over-fetching by 45%.
+
+## Contribution #18 - Terraform Infrastructure as Code
+**Date:** 2026-06-02  
+**Type:** Infrastructure  
+**Description:** Wrote Terraform modules to provision and manage AWS infrastructure (VPC, EC2, RDS, S3, IAM) as code, enabling reproducible and version-controlled cloud environments.
