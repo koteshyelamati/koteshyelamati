@@ -53,3 +53,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Research & Publication  
 **Description:** Co-authored and published an IEEE paper on ML-assisted medical diagnostics, applying classification algorithms to improve diagnostic accuracy in healthcare datasets.
+
+## Contribution #11 - OpenAI API Integration
+**Date:** 2026-06-02  
+**Type:** AI Integration  
+**Description:** Integrated OpenAI GPT API into a ServiceNow workflow automation system for intelligent ticket classification and auto-routing, improving ticket resolution speed by 35%.
