@@ -43,3 +43,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Data Quality  
 **Description:** Implemented data validation pipelines using Great Expectations framework to ensure 99%+ data accuracy in ETL workflows, with automated alerting for data quality failures.
+
+## Contribution #9 - Kubernetes Deployment
+**Date:** 2026-06-02  
+**Type:** DevOps  
+**Description:** Containerized microservices using Docker and deployed on Kubernetes with Helm charts, implementing horizontal pod autoscaling and rolling updates for zero-downtime deployments.
