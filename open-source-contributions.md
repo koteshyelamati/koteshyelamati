@@ -122,3 +122,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Big Data  
 **Description:** Developed Apache Spark batch processing pipelines for large-scale ETL operations on AWS EMR, processing 500GB+ datasets daily and feeding downstream ML training workflows.
+
+## Contribution #24 - Unit & Integration Testing Suite
+**Date:** 2026-06-02  
+**Type:** Testing & QA  
+**Description:** Wrote comprehensive unit and integration test suites using JUnit 5, Mockito, and Testcontainers for Spring Boot microservices, achieving 85%+ code coverage and catching regressions early.
