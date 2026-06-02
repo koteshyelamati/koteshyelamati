@@ -68,3 +68,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Machine Learning  
 **Description:** Developed ML classification models using scikit-learn for automated issue categorization, reducing manual review effort by 30% and improving model accuracy through hyperparameter tuning.
+
+## Contribution #14 - CI/CD Pipeline with GitHub Actions
+**Date:** 2026-06-02  
+**Type:** DevOps & Automation  
+**Description:** Set up CI/CD pipelines using GitHub Actions for automated testing, building, and deployment of Spring Boot applications to AWS ECS, enabling faster and reliable release cycles.
