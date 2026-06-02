@@ -117,3 +117,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** NLP / AI  
 **Description:** Integrated Hugging Face transformer models (BERT, T5) for text classification and summarization tasks, fine-tuning on domain-specific datasets to improve task-specific accuracy by 18%.
+
+## Contribution #23 - Apache Spark Data Pipeline
+**Date:** 2026-06-02  
+**Type:** Big Data  
+**Description:** Developed Apache Spark batch processing pipelines for large-scale ETL operations on AWS EMR, processing 500GB+ datasets daily and feeding downstream ML training workflows.
