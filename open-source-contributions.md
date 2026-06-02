@@ -18,3 +18,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Backend Development  
 **Description:** Decomposed a monolithic Java application into Spring Boot microservices using REST APIs, implemented service discovery with Eureka, and configured API Gateway for routing.
+
+## Contribution #4 - AWS SageMaker ML Model
+**Date:** 2026-06-02  
+**Type:** Machine Learning  
+**Description:** Built and deployed a predictive analytics model using AWS SageMaker for MTTR (Mean Time To Resolve) prediction, reducing incident resolution time by 30% using scikit-learn and XGBoost.
