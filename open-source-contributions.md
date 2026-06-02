@@ -58,3 +58,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** AI Integration  
 **Description:** Integrated OpenAI GPT API into a ServiceNow workflow automation system for intelligent ticket classification and auto-routing, improving ticket resolution speed by 35%.
+
+## Contribution #12 - Apache Kafka Event Streaming
+**Date:** 2026-06-02  
+**Type:** Distributed Systems  
+**Description:** Designed and implemented Apache Kafka-based event streaming architecture for real-time data processing, enabling decoupled microservices communication with guaranteed message delivery.
