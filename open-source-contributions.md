@@ -23,3 +23,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Machine Learning  
 **Description:** Built and deployed a predictive analytics model using AWS SageMaker for MTTR (Mean Time To Resolve) prediction, reducing incident resolution time by 30% using scikit-learn and XGBoost.
+
+## Contribution #5 - Spring Security & OAuth2
+**Date:** 2026-06-02  
+**Type:** Security  
+**Description:** Implemented Spring Security with OAuth2 and JWT for a multi-tenant SaaS platform, reducing security QA defects by 25% and enabling role-based access control.
