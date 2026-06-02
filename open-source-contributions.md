@@ -28,3 +28,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Security  
 **Description:** Implemented Spring Security with OAuth2 and JWT for a multi-tenant SaaS platform, reducing security QA defects by 25% and enabling role-based access control.
+
+## Contribution #6 - ChromaDB Vector Search
+**Date:** 2026-06-02  
+**Type:** Data Engineering  
+**Description:** Built ChromaDB vector search pipelines for semantic document retrieval, improving search relevance by 40% in a RAG-based knowledge management system.
