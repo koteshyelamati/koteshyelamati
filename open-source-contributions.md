@@ -13,3 +13,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Feature Development  
 **Description:** Implemented a LangChain-based Retrieval Augmented Generation (RAG) pipeline for document Q&A, integrating OpenAI embeddings with ChromaDB vector store for semantic search.
+
+## Contribution #3 - Spring Boot Microservices
+**Date:** 2026-06-02  
+**Type:** Backend Development  
+**Description:** Decomposed a monolithic Java application into Spring Boot microservices using REST APIs, implemented service discovery with Eureka, and configured API Gateway for routing.
