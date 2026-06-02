@@ -73,3 +73,12 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** DevOps & Automation  
 **Description:** Set up CI/CD pipelines using GitHub Actions for automated testing, building, and deployment of Spring Boot applications to AWS ECS, enabling faster and reliable release cycles.
+
+## Contribution #15 - Portfolio Website & GitHub Profile
+**Date:** 2026-06-02  
+**Type:** Personal Branding & Open Source  
+**Description:** Built and published a personal portfolio website showcasing all projects, publications, and technical skills. Maintained an active GitHub profile with open source contributions, documentation, and community engagement.
+
+---
+
+*Last updated: 2026-06-02 | Total contributions tracked: 15*
