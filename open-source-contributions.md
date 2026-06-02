@@ -48,3 +48,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** DevOps  
 **Description:** Containerized microservices using Docker and deployed on Kubernetes with Helm charts, implementing horizontal pod autoscaling and rolling updates for zero-downtime deployments.
+
+## Contribution #10 - IEEE Publication: ML Medical Diagnostics
+**Date:** 2026-06-02  
+**Type:** Research & Publication  
+**Description:** Co-authored and published an IEEE paper on ML-assisted medical diagnostics, applying classification algorithms to improve diagnostic accuracy in healthcare datasets.
