@@ -38,3 +38,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Cloud Infrastructure  
 **Description:** Optimized AWS EC2 instance types, configured S3 lifecycle policies, and tuned RDS parameters for a production backend system, achieving 20% faster API response times.
+
+## Contribution #8 - Great Expectations Data Validation
+**Date:** 2026-06-02  
+**Type:** Data Quality  
+**Description:** Implemented data validation pipelines using Great Expectations framework to ensure 99%+ data accuracy in ETL workflows, with automated alerting for data quality failures.
