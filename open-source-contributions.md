@@ -112,3 +112,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** API Development  
 **Description:** Built a high-performance REST API using Python FastAPI with async endpoints, Pydantic data validation, and SQLAlchemy ORM, supporting 10,000+ concurrent requests for an ML inference service.
+
+## Contribution #22 - Hugging Face Transformers Integration
+**Date:** 2026-06-02  
+**Type:** NLP / AI  
+**Description:** Integrated Hugging Face transformer models (BERT, T5) for text classification and summarization tasks, fine-tuning on domain-specific datasets to improve task-specific accuracy by 18%.
