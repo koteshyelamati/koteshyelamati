@@ -127,3 +127,12 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Testing & QA  
 **Description:** Wrote comprehensive unit and integration test suites using JUnit 5, Mockito, and Testcontainers for Spring Boot microservices, achieving 85%+ code coverage and catching regressions early.
+
+## Contribution #25 - ML Model Explainability with SHAP
+**Date:** 2026-06-02  
+**Type:** ML Interpretability  
+**Description:** Implemented model explainability for production ML models using SHAP (SHapley Additive exPlanations) and LIME, making black-box predictions interpretable for stakeholders and compliance teams.
+
+---
+
+*Last updated: 2026-06-02 | Total contributions tracked: 25*
