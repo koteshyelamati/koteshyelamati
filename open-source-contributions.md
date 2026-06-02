@@ -97,3 +97,8 @@ This file tracks my open source contributions, projects, and community involveme
 **Date:** 2026-06-02  
 **Type:** Infrastructure  
 **Description:** Wrote Terraform modules to provision and manage AWS infrastructure (VPC, EC2, RDS, S3, IAM) as code, enabling reproducible and version-controlled cloud environments.
+
+## Contribution #19 - Prometheus & Grafana Monitoring
+**Date:** 2026-06-02  
+**Type:** Observability  
+**Description:** Set up Prometheus metrics collection and Grafana dashboards for real-time monitoring of microservices, enabling proactive alerting on latency, error rates, and resource utilization.
